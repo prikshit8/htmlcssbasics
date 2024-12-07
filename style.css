@@ -1,0 +1,28 @@
+.divStyles{
+    background-color: aqua;
+    padding: 5px;
+    /* margin-top: 10px; */
+}
+
+.heading1{
+    background-color:bisque;
+}
+
+.div2Styles{
+    background-color: brown;
+}
+
+.div2Styles{
+    margin: 10px;
+}
+
+#div2{
+    margin-top: 10px;
+    background-color: beige;
+    border: 1px solid black;
+}
+
+.para{
+    font-size: 20px;
+    font-family: cursive;
+}
